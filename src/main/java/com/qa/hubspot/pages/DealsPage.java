@@ -1,5 +1,18 @@
 package com.qa.hubspot.pages;
 
-public class DealsPage {
+import org.openqa.selenium.WebDriver;
+
+import com.qa.hubspot.base.BasePageClass;
+
+public class DealsPage extends BasePageClass{
+	
+	public DealsPage(WebDriver Driver){
+		
+	}
+	
+	
+	
+	
+	
 
 }
